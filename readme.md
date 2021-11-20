@@ -29,4 +29,4 @@ const { videoExtensions, imageExtensions, textExtensions } = require('file-exten
 
 - [sindresorhus/video-extensions](https://github.com/sindresorhus/video-extensions) - Simple and small module providing video extensions
 - [sindresorhus/text-extensions](https://github.com/sindresorhus/text-extensions) - Simple and small node module providing text extensions
-- [image-extensions](https://github.com/arthurvr/image-extensions) - Simple and small node module providing image extensions
+- [arthurvr/image-extensions](https://github.com/arthurvr/image-extensions) - Simple and small node module providing image extensions
