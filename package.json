@@ -1,14 +1,13 @@
 {
-	"name": "video-extensions",
-	"version": "1.2.0",
-	"description": "List of video file extensions",
+	"name": "file-extensions",
+	"version": "1.0.0",
+	"description": "List of file extensions grouped by category",
 	"license": "MIT",
-	"repository": "sindresorhus/video-extensions",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "khalidadil/file-extensions",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "Khalid Adil",
+		"email": "khalidadil29@gmail.com",
+		"url": "https://www.khalidadil.com"
 	},
 	"main": "video-extensions.json",
 	"engines": {
@@ -24,16 +23,7 @@
 		"ext",
 		"extensions",
 		"extension",
-		"file",
-		"json",
-		"list",
-		"array",
-		"video",
-		"movie",
-		"mov",
-		"avi",
-		"mp4",
-		"mkv"
+		"file"
 	],
 	"devDependencies": {
 		"ava": "^2.4.0"
