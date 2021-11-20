@@ -24,7 +24,7 @@ const { videoExtensions, imageExtensions, textExtensions } = require('file-exten
 
 Is this repo missing a certain extension that you need? Open a pull request, and let's get it added! 
 
-Note that I can't guarantee that all pull requests will be accepted for ambiguous file extensions that fall outside the general use case for that extension. For example, if you open a pull request adding "MP4" to the text extensions list, no matter how technically sound your argument may be, this goes against the general use case of that extension (which is generally used for video), and the pull request would not be accepted.
+Note that I can't guarantee that all pull requests will be accepted for use cases that fall outside the general/popular use case for that extension. For example, if you open a pull request adding "MP4" to the text extensions list, no matter how technically sound your argument may be, this goes against the general use case of that extension (which is generally used for video), and the pull request would not be accepted.
 
 ## Sources
 
