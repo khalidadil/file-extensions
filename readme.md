@@ -9,9 +9,9 @@ Note that I can't guarantee that all pull requests will be accepted for ambiguou
 I'm using this [source repo](https://github.com/sindresorhus/video-extensions) as a base and expanding it to fit my needs.
 
 This repo is starting with these as some of the source files:
-> List of [video files](https://github.com/sindresorhus/video-extensions/blob/main/video-extensions.json) extensions
-> List of [text file](https://github.com/sindresorhus/text-extensions/blob/main/text-extensions.json) extensions
-> List of [image-file](https://github.com/arthurvr/image-extensions/blob/master/image-extensions.json) extensions
+- List of [video files](https://github.com/sindresorhus/video-extensions/blob/main/video-extensions.json) extensions
+- List of [text file](https://github.com/sindresorhus/text-extensions/blob/main/text-extensions.json) extensions
+- List of [image-file](https://github.com/arthurvr/image-extensions/blob/master/image-extensions.json) extensions
 
 ## Install
 
